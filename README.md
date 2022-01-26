@@ -1,36 +1,38 @@
-# linda-sandaker-js1-ma1
+# JavaScript 1 Module Assignment 1
 
-Question 1:
+## linda-sandaker-js1-ma1
+
+### Question 1
 
 Create an object called cat.
 
 Give the object one property called complain. complain's value should be a method (a function) which logs the string "Meow!".
 
-Question 2:
+### Question 2
 
 Select the h3 from the HTML using the querySelector method and assign it to a variable called heading.
 
 Change its innerHTML value to "Updated heading".
 
-Question 3:
+### Question 3
 
 Use the style property on the heading variable from the question above to change its font size to "2em".
 
-Question 4:
+### Question 4
 
 Add a class to the heading variable called subheading.
 
-Question 5:
+### Question 5
 
 Write code that selects all the p elements on a page and assigns them to a variable called paragraphs.
 
 Loop through the p elements and change the colour of each to "red".
 
-Question 6:
+### Question 6
 
 Select the div with a class of results, assign it to a variable called resultsContainer and set its inner HTML to be <p>New paragraph</p> and its background colour to be yellow.
 
-Question 7:
+### Question 7
 
 Create a function that has one parameter called list.
 
@@ -38,7 +40,7 @@ Inside the function, loop through the list parameter and console log the name pr
 
 Call the function and pass in the cats variable in the script.js file in the repo.
 
-Question 8:
+### Question 8
 
 Create a function called createCats. The function will have one parameter called cats.
 
